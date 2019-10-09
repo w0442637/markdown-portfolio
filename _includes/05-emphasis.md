@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+_Below is some information about my skills:_
+
+## Programming Languages:
+- Java
+- Python
+- R
+
+## Education
+- Honours Bachelor of Science in Neuroscience
+- NSCC IT Data Analytics
