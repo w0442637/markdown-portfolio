@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# My Favourite Things
+- A Song of Ice and Fire
+- Peaches (my kitty cat!)
+- Drawing!
